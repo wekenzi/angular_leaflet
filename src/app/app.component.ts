@@ -56,7 +56,6 @@ export class AppComponent implements AfterViewInit, OnInit{
     this.dataService.GetHospitals()
     .subscribe(hospitals=>{
       this.records = hospitals;
-      console.log(this.records);
       this.records.map(item => {
         const marker = L.marker([item.geometry.coordinates[1], item.geometry.coordinates[0]])
         marker.bindPopup(
@@ -76,7 +75,6 @@ export class AppComponent implements AfterViewInit, OnInit{
     this.dataService.GetSchools()
     .subscribe(schools=>{
       this.records = schools;
-      console.log(this.records);
       this.records.map(item => {
         const marker = L.marker([item.geometry.coordinates[1], item.geometry.coordinates[0]])
         marker.bindPopup(
