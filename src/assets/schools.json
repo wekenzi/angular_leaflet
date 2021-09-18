@@ -1,0 +1,145 @@
+[
+    {
+        "properties": {
+            "Facility_Name": "Black Mountain School",
+            "Address": "34 Faunce Crescent, 5 Cockle Street",
+            "Phone_Number": "(02) 6142 1400"
+        },
+        "geometry": {
+            "coordinates": [
+                149.112335902525786,
+                -35.264642592657204
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Cranleigh School",
+            "Address": "20 Starke Street",
+            "Phone_Number": "(02) 6142 0444"
+        },
+        "geometry": {
+            "coordinates": [
+                149.028819898955959,
+                -35.225122940183432
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Isabella Plains Early Childhood School",
+            "Address": "130,134 &138 Ellerston Avenue",
+            "Phone_Number": "(02) 6142 3777"
+        },
+        "geometry": {
+            "coordinates": [
+                149.089174649312326,
+                -35.428523139543927
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Lyons Early Childhood School",
+            "Address": "38 Tarraleah Crescent, 67 Launceston St",
+            "Phone_Number": "(02) 6142 0044"
+        },
+        "geometry": {
+            "coordinates": [
+                149.076648110311282,
+                -35.341850588107874
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Malkara School",
+            "Address": "53 Wisdom Street",
+            "Phone_Number": "(02) 6142 0266"
+        },
+        "geometry": {
+            "coordinates": [
+                149.094290736455378,
+                -35.338397293521211
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Narrabundah Early Childhood School",
+            "Address": "25 Kootara Crescent",
+            "Phone_Number": "(02) 6142 3828"
+        },
+        "geometry": {
+            "coordinates": [
+                149.150810194863055,
+                -35.328976707163228
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "O'Connor Cooperative School",
+            "Address": "35A Macpherson Street",
+            "Phone_Number": "(02) 6142 0345"
+        },
+        "geometry": {
+            "coordinates": [
+                149.120132258230768,
+                -35.261130399452874
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Southern Cross Early Childhood School",
+            "Address": "33 Wirraway Crescent, 111 Ross Smith Crescent",
+            "Phone_Number": "(02) 6142 0020"
+        },
+        "geometry": {
+            "coordinates": [
+                149.038601094436217,
+                -35.232831512691106
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "The Woden School",
+            "Address": "127 Denison Street",
+            "Phone_Number": "(02) 6142 0200"
+        },
+        "geometry": {
+            "coordinates": [
+                149.092619496605749,
+                -35.326365847433074
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Telopea Park School P-6",
+            "Address": "25 New South Wales Crescent",
+            "Phone_Number": "(02) 6142 3388"
+        },
+        "geometry": {
+            "coordinates": [
+                149.133676279118845,
+                -35.313710392259225
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "Franklin Early Childhood School",
+            "Address": "135 Oodgeroo Avenue",
+            "Phone_Number": "(02) 6142 1110"
+        },
+        "geometry": {
+            "coordinates": [
+                149.145366163131314,
+                -35.196265909573192
+            ]
+        }
+    }
+]

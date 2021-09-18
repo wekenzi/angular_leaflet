@@ -1,0 +1,338 @@
+[
+    {
+        "properties": {
+            "Facility_Name": "ELLEN BARRON FAMILY CENTRE",
+            "Address": "Hamilton Rd, CHERMSIDE, 4032",
+            "Phone_Number": "(07)31396500 ",
+            "FID": 1
+        },
+        "geometry": {
+            "coordinates": [
+                153.025383262678986,
+                -27.3856309662016
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "LADY CILENTO CHILDREN'S HOSPITAL",
+            "Address": "501 Stanley St, SOUTH BRISBANE, 4101",
+            "Phone_Number": "(07)30681111",
+            "FID": 2
+        },
+        "geometry": {
+            "coordinates": [
+                153.026543368255005,
+                -27.484171640769201
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "MATER HOSPITAL BRISBANE",
+            "Address": "Raymond Terrace, SOUTH BRISBANE, 4101",
+            "Phone_Number": "(07)31638111",
+            "FID": 3
+        },
+        "geometry": {
+            "coordinates": [
+                153.028067139097999,
+                -27.4852692938811
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "MATER MOTHERS' HOSPITAL",
+            "Address": "Raymond Terrace, SOUTH BRISBANE, 4101",
+            "Phone_Number": "(07)31631918",
+            "FID": 4
+        },
+        "geometry": {
+            "coordinates": [
+                153.027509239622987,
+                -27.4847838815854
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "CABOOLTURE HOSPITAL",
+            "Address": "McKean St, CABOOLTURE, 4510",
+            "Phone_Number": "(07)54338888",
+            "FID": 5
+        },
+        "geometry": {
+            "coordinates": [
+                152.963240878575988,
+                -27.080389172153499
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "KILCOY HOSPITAL",
+            "Address": "19 Brown St, KILCOY, 4515",
+            "Phone_Number": "(07)54971333",
+            "FID": 6
+        },
+        "geometry": {
+            "coordinates": [
+                152.561452650126995,
+                -26.940552844123498
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "REDCLIFFE HOSPITAL",
+            "Address": "Anzac Avenue, REDCLIFFE, 4020",
+            "Phone_Number": "(07)38837508",
+            "FID": 7
+        },
+        "geometry": {
+            "coordinates": [
+                153.104120717943005,
+                -27.2281169839172
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "ROYAL BRISBANE & WOMEN'S HOSPITAL",
+            "Address": "Butterfield St, HERSTON, 4029",
+            "Phone_Number": "(07)36368111",
+            "FID": 8
+        },
+        "geometry": {
+            "coordinates": [
+                153.028142682061997,
+                -27.446844550071798
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "THE PRINCE CHARLES HOSPITAL",
+            "Address": "Rode Road, CHERMSIDE, 4032",
+            "Phone_Number": "(07)33508111",
+            "FID": 9
+        },
+        "geometry": {
+            "coordinates": [
+                153.022609977428004,
+                -27.390263814526602
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "BEAUDESERT HOSPITAL",
+            "Address": "64 Tina St, BEAUDESERT, 4285",
+            "Phone_Number": "(07)55411411",
+            "FID": 10
+        },
+        "geometry": {
+            "coordinates": [
+                153.002610127942006,
+                -27.984922383204101
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "LOGAN HOSPITAL",
+            "Address": "Cnr Armstrong & Loganlea Rds, MEADOWBROOK, 4131",
+            "Phone_Number": "(07)32998899",
+            "FID": 11
+        },
+        "geometry": {
+            "coordinates": [
+                153.141361332499002,
+                -27.6701089321122
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "PRINCESS ALEXANDRA HOSPITAL",
+            "Address": "199 Ipswich Road, WOOLLOONGABBA, 4102",
+            "Phone_Number": "(07)32402111",
+            "FID": 12
+        },
+        "geometry": {
+            "coordinates": [
+                153.033532093032989,
+                -27.499027156153499
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "QUEEN ELIZABETH II JUBILEE HOSPITAL",
+            "Address": "Cnr Kessels & Troughon Roads, COOPERS PLAINS, 4108",
+            "Phone_Number": "(07) 31826111",
+            "FID": 13
+        },
+        "geometry": {
+            "coordinates": [
+                153.04894006429501,
+                -27.559567696142199
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "REDLAND HOSPITAL",
+            "Address": "Weippin St, CLEVELAND, 4163",
+            "Phone_Number": "(07)34883111",
+            "FID": 14
+        },
+        "geometry": {
+            "coordinates": [
+                153.251840224603995,
+                -27.540160382772399
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "CALOUNDRA HOSPITAL",
+            "Address": "West Terrace, CALOUNDRA, 4551",
+            "Phone_Number": "(07)54368500",
+            "FID": 15
+        },
+        "geometry": {
+            "coordinates": [
+                153.119815047934992,
+                -26.800475556710101
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "GYMPIE HOSPITAL",
+            "Address": "12 Henry St, GYMPIE, 4570",
+            "Phone_Number": "(07)54898444",
+            "FID": 16
+        },
+        "geometry": {
+            "coordinates": [
+                152.658324777274004,
+                -26.1844860298668
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "MALENY HOSPITAL",
+            "Address": "17 Bean St, MALENY, 4552",
+            "Phone_Number": "(07)54942208",
+            "FID": 17
+        },
+        "geometry": {
+            "coordinates": [
+                152.844856197637995,
+                -26.755028047542702
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "NAMBOUR HOSPITAL",
+            "Address": "Hospital Road, NAMBOUR, 4560",
+            "Phone_Number": "(07)54706600",
+            "FID": 18
+        },
+        "geometry": {
+            "coordinates": [
+                152.951253474933992,
+                -26.620566670281999
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "SUNSHINE COAST UNIVERSITY HOSPITAL",
+            "Address": "6 Doherty St, BIRTINYA, 4575",
+            "Phone_Number": "(07)52020000",
+            "FID": 19
+        },
+        "geometry": {
+            "coordinates": [
+                153.113844849045989,
+                -26.746135121853001
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "BOONAH HOSPITAL",
+            "Address": "Leonard St, BOONAH, 4310",
+            "Phone_Number": "(07)45631266",
+            "FID": 20
+        },
+        "geometry": {
+            "coordinates": [
+                152.678858384064,
+                -27.999073947487801
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "ESK HOSPITAL",
+            "Address": "30 Highland St, ESK, 4312",
+            "Phone_Number": "(07)54241288",
+            "FID": 21
+        },
+        "geometry": {
+            "coordinates": [
+                152.418273367913997,
+                -27.240122666213001
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "GATTON HOSPITAL",
+            "Address": "97 - 108 William St, GATTON, 4343",
+            "Phone_Number": "(07)54620110",
+            "FID": 22
+        },
+        "geometry": {
+            "coordinates": [
+                152.276150654691008,
+                -27.566653741089802
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "IPSWICH HOSPITAL",
+            "Address": "Chelmsford Ave, IPSWICH, 4305",
+            "Phone_Number": "(07)38101111",
+            "FID": 23
+        },
+        "geometry": {
+            "coordinates": [
+                152.758826581046009,
+                -27.619245026539801
+            ]
+        }
+    },
+    {
+        "properties": {
+            "Facility_Name": "LAIDLEY HOSPITAL",
+            "Address": "75 William St, LAIDLEY, 4341",
+            "Phone_Number": "(07)54651499",
+            "FID": 24
+        },
+        "geometry": {
+            "coordinates": [
+                152.400099220529,
+                -27.6327991779809
+            ]
+        }
+    }
+]

@@ -1,0 +1,24 @@
+.wrapper{
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+}
+
+.map-container {
+    width: 100%;
+}
+
+.map-frame {
+    height: 100%;
+}
+
+#map {
+    height: 100%;
+}
+
+.select-wrapper{
+    position: absolute;
+    left: 350px;
+    z-index: 1000;
+    top: 20px;
+}

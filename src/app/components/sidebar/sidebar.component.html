@@ -1,0 +1,15 @@
+<div class="sidebar">
+    <h2>Places <small class="text-success text-small">({{ records.length }})</small></h2>
+    <hr>
+    <div *ngIf="records.length > 0">
+        <div *ngFor="let record of records; let i = index" class="card mb-2" (click)="selectRecordFromSideBar(i)">
+            <div class="card-header">
+                {{ record.properties.Facility_Name }}
+            </div>
+            <div class="card-body">
+                <h6 class="card-title">Address: {{ record.properties.Address }}</h6>
+                <p class="card-text">Phone: {{ record.properties.Phone_Number }}</p>
+            </div>
+        </div>
+    </div>
+</div>

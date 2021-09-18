@@ -1,0 +1,17 @@
+.sidebar{
+    width: 300px;
+    height: 100vh;
+    background-color: #fff;
+    padding: 10px;
+    overflow-y: scroll;
+    .card-body , .card-header{
+        padding: 0.5rem;
+    }
+    .card{
+        &:hover{
+            cursor: pointer;
+            box-shadow: 0 0px 5px 0px rgb(0 153 204 / 50%);
+            border: 1px solid rgb(0 153 204 / 50%);
+        }
+    }
+}
